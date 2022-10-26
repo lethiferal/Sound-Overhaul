@@ -1,0 +1,8 @@
+name: sound-overhaul
+displayName: Sound Overhaul
+description: Adds modest modifications to the default Mindustry sounds.
+author: Lethiferal
+version: 0
+minGameVersion: 136
+hidden: true
+repo: Lethiferal/Sound-Overhaul
